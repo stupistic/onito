@@ -1,0 +1,19 @@
+.tablediv {
+  margin: 20px 120px;
+  position: relative;
+  display: flex;
+  width: auto;
+  box-shadow: 2px 5px 20px gray;
+  border-radius: 8px 8px 6px 6px;
+}
+.table1 {
+  width: 100%;
+}
+.table1 thead tr {
+  text-align: left;
+  background-color: antiquewhite;
+}
+.table th,
+.table1 tr {
+  padding: 15px 20px;
+}

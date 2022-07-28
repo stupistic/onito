@@ -1,0 +1,8 @@
+body {
+  background-color: whitesmoke;
+}
+.App {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
